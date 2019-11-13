@@ -28,12 +28,27 @@ h1 {
 }
 
 
-
 h2, h3, h4 {
 	font-size: 24px;
 	margin: 0;
 	text-align: center;
-	
+
+}
+
+#Varmuuskopiointi {
+	font-size: 20px
+}
+#Verkko {
+	font-size: 20px
+}
+#Salasanat {
+	font-size: 20px
+}
+#Haittaohjelmat {
+	font-size: 20px
+}
+#Huijaukset {
+	font-size: 20px
 }
 
 #main {
