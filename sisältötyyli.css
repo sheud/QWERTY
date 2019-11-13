@@ -37,9 +37,10 @@ h2, h3, h4 {
 }
 
 #main {
-	width: 780px;
+	width: 760px;
 	float: right;
-	padding: 10px;
+	padding: 20px;
+	text-align: justify;
 }
 
 #footer {
