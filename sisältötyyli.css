@@ -38,22 +38,25 @@ h2, h3, h4 {
 	font-size: 24px;
 }
 #Varmuuskopiointi {
-	font-size: 20px
+	font-size: 20px;
 }
 #Verkko {
-	font-size: 20px
+	font-size: 20px;
 }
 #Salasanat {
-	font-size: 20px
+	font-size: 20px;
 }
 #Haittaohjelmat {
-	font-size: 20px
+	font-size: 20px;
 }
 #Huijaukset {
-	font-size: 20px
+	font-size: 20px;
 }
 #riskei {
-	font-size: 20px
+	font-size: 20px;
+}
+#kulkukortti {
+	font-size: 20px;
 }
 
 #main {
@@ -71,7 +74,7 @@ h2, h3, h4 {
 	text-align: right;
 }
 #otsikko {
-		font-size: 20px
+		font-size: 20px;
 }
 
 ul {
@@ -82,7 +85,7 @@ ul {
   width:100%;
 }
 ol {
-	list-style-type: circle
+	list-style-type: circle;
 }
 
 li {
