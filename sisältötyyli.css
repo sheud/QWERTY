@@ -81,6 +81,9 @@ ul {
   background-color: #501B1D;
   width:100%;
 }
+ol {
+	list-style-type: circle
+}
 
 li {
   float: left;
