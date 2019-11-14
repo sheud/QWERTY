@@ -100,3 +100,27 @@ li a:hover {
 li:last-child {
   border-right: none;
 }
+
+.button1 {
+	background-color: white;
+	border: none;
+	color: white;
+	border: 1px solid #83677B;
+	text-align: center; 
+	text-decoration: none;
+	display:inline block;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+.buttons:hover {
+	background-color: #83677B;
+	color:#83677B;
+	
+}
+
+.buttons {
+	background-color: white;
+	color: black;
+	border: 1px solid #83677B;
