@@ -76,8 +76,7 @@ li a:hover {
 li:last-child {
   border-right: none;
 }
-=======
->>>>>>> 5c22e92ebb8940a4ee4bf197a05e73e045b8e51d
+
 
 @media only screen and(max-width:920px;)
  .inner-container {margin-top:100px;}
